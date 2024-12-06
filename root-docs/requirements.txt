@@ -1,0 +1,15 @@
+# Sphinx-related requirements.
+sphinx
+sphinx-book-theme>=1.0.1
+myst-nb
+myst-parser[linkify]
+sphinx-book-theme
+sphinx-copybutton
+
+# Packages required for notebook execution
+matplotlib
+penzai
+scikit-learn
+
+# install jax-ai-stack from current directory
+.
